@@ -34,6 +34,7 @@
   display: block;
   clear: both;
   visibility: hidden;
+  
 }
 
 [class*="col-"] {
