@@ -26,6 +26,7 @@
 
 .row {
   clear: both;
+  margin-bottom: 2px;
 }
 
 .row:after {
