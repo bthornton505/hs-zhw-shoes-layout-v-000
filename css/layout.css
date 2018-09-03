@@ -30,5 +30,6 @@
 
 [class*="col-"] {
   float: left;
+  margin: 2px;
 }
 
