@@ -28,6 +28,11 @@
   clear: both;
 }
 
+.row:after {
+  display: block;
+  
+}
+
 [class*="col-"] {
   float: left;
   margin: 2px;
